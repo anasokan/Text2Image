@@ -2,7 +2,7 @@
 
 Text2Image is a simple web application that uses OpenAI's CLIP model to generate images based on text input.
 
-##Setup
+## Setup
 
 To use this application, follow these steps:
 
@@ -27,13 +27,13 @@ python app.py
 5. Go to http://localhost:5000 in your web browser to use the application.
 
 
-##Usage
+## Usage
 1. Enter a text prompt in the input field and click "Generate Image".
 2. Wait for the image to load.
 3. Click "Generate Another Image" to generate a new image based on a new prompt.
 
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
@@ -42,5 +42,5 @@ If you would like to contribute to this project, please follow these steps:
 4. Push to the branch: git push origin my-new-feature
 5. Submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License
